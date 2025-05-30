@@ -2,7 +2,7 @@ name: lm
 # The name must be a single word
 rule:
   global:
-    indentSize: 2
+    indent_ize: 2
   constant_004: # names
     case: upper
   constant_015: # prefix

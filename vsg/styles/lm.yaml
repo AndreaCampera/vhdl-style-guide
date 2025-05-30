@@ -7,7 +7,8 @@ rule:
     case: upper
   constant_015: # prefix
     disable: false
-    prefixes: ["C_"]
+    #prefixes: ["C_"]
+    suffixes: ["_C"]
   generic_007: # names
     case: upper
   generic_020: # prefix "G_"
